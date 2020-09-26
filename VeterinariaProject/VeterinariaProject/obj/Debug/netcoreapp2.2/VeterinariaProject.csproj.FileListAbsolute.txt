@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\VeterinariaProject.deps.json
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\VeterinariaProject.runtimeconfig.json
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\VeterinariaProject.runtimeconfig.dev.json
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\VeterinariaProject.dll
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.csprojAssemblyReference.cache
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.AssemblyInfo.cs
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\bin\Debug\netcoreapp2.2\VeterinariaProject.pdb
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.dll
+C:\Users\user\source\repos\VeterinariaProject\VeterinariaProject\obj\Debug\netcoreapp2.2\VeterinariaProject.pdb

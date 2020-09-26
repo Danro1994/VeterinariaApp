@@ -1,0 +1,25 @@
+<h1>Listado de Mascotas</h1>
+<button type="button" class="btn btn-success mb-2" (click)="crearMascota()"><i class="fas fa-plus"></i>Crear </button>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nombre de la Mascota</th>
+            <th scope="col">Raza</th>
+            <th scope="col">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let mascota of mascotas">
+            <th scope="row">{{mascota.id}}</th>
+            <td>{{mascota.nombre}}</td>
+            <td>{{mascota.raza.nombre}}</td>
+            <td>
+                <div class="btn-group" role="group">
+                    <button type="button" class="btn btn-info" (click)="editarMascota(mascota.id)"><i class="fas fa-pencil-alt"></i></button>
+                    <button type="button" class="btn btn-danger" (click)="eliminarMascota(mascota.id)"><i class="fas fa-trash-alt"></i></button>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,16 @@
+<h2>Crear Mascota</h2>
+<form>
+    <div class="form-group">
+        <label for="nombreMascota">Nombre de la Mascota</label>
+        <input name="nombre" type="text" class="form-control" id="nombreMascota"
+        placeholder="Ingrese el nombre de la Mascota" [(ngModel)]="mascota.nombre">
+    </div>
+    <div class="form-group">
+        <label for="razaControlSelect">Seleccione la Raza</label>
+        <select name="nombreRaza" class="form-control" id="razaControlSelect" [(ngModel)]="mascota.razaId">
+            <option *ngFor="let raza of razas" [value]="raza.id">{{raza.nombre}}</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary" (click)="crearMascota()">Guardar</button>
+    <button type="submit" class="btn btn-light" (click)="cancelar()">Cancelar</button>
+</form>
